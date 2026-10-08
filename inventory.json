@@ -1,6 +1,6 @@
 {
   "dealership": "Sunshine Mountain Ford Lincoln Ltd",
-  "generated_at": "2026-09-27T01:25:54",
+  "generated_at": "2026-10-08T14:44:39",
   "vehicle_count": 70,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
@@ -10,6 +10,7 @@
       "vin": "1FDUF5HT9CED01641",
       "stock": "262141",
       "color": "Oxford White",
+      "trim": "F-550 DRW XLT",
       "url": "https://willyml1979-dotcom.github.io/sunshine-mountain-ford-lincoln-ltd-mirror/used/c4c5dcd7286a.html",
       "source_url": "https://smfl.ca/Inventory/2012-FORD-SUPERDUTYF-550DRW-XLT-1FDUF5HT9CED01641",
       "dealer_url": "https://smfl.ca/Inventory/2012-FORD-SUPERDUTYF-550DRW-XLT-1FDUF5HT9CED01641?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -17,8 +18,10 @@
       "odometer_km": 58563,
       "year": 2012,
       "make": "FORD",
-      "model": "SUPER DUTY F-550 DRW XLT",
-      "condition": "used"
+      "model": "Super Duty",
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2014 ACURA MDX 3.5L",
@@ -33,13 +36,16 @@
       "year": 2014,
       "make": "ACURA",
       "model": "MDX 3.5L",
-      "condition": "used"
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2016 HONDA CIVIC SEDAN Touring",
       "vin": "2HGFC1F91GH114402",
       "stock": "261421",
       "color": "Blue",
+      "trim": "Touring",
       "url": "https://willyml1979-dotcom.github.io/sunshine-mountain-ford-lincoln-ltd-mirror/used/753db96e6119.html",
       "source_url": "https://smfl.ca/Inventory/2016-HONDA-CIVICSEDAN-Touring-2HGFC1F91GH114402",
       "dealer_url": "https://smfl.ca/Inventory/2016-HONDA-CIVICSEDAN-Touring-2HGFC1F91GH114402?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -47,14 +53,17 @@
       "odometer_km": 88495,
       "year": 2016,
       "make": "HONDA",
-      "model": "CIVIC SEDAN Touring",
-      "condition": "used"
+      "model": "Civic",
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2017 BMW X5 xDrive35i",
       "vin": "5UXKR0C50H0U50084",
       "stock": "20440",
       "color": "Carbon Black Metallic",
+      "trim": "xDrive35i",
       "url": "https://willyml1979-dotcom.github.io/sunshine-mountain-ford-lincoln-ltd-mirror/used/bda3d86e4a25.html",
       "source_url": "https://smfl.ca/Inventory/2017-BMW-X5-xDrive35i-5UXKR0C50H0U50084",
       "dealer_url": "https://smfl.ca/Inventory/2017-BMW-X5-xDrive35i-5UXKR0C50H0U50084?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -62,14 +71,17 @@
       "odometer_km": 123655,
       "year": 2017,
       "make": "BMW",
-      "model": "X5 xDrive35i",
-      "condition": "used"
+      "model": "X5",
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2017 HYUNDAI TUCSON Limited",
       "vin": "KM8J3CA22HU413762",
       "stock": "20040",
       "color": "Winter White",
+      "trim": "Limited",
       "url": "https://willyml1979-dotcom.github.io/sunshine-mountain-ford-lincoln-ltd-mirror/used/0df28345726a.html",
       "source_url": "https://smfl.ca/Inventory/2017-HYUNDAI-TUCSON-Limited-KM8J3CA22HU413762",
       "dealer_url": "https://smfl.ca/Inventory/2017-HYUNDAI-TUCSON-Limited-KM8J3CA22HU413762?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -77,14 +89,17 @@
       "odometer_km": 107814,
       "year": 2017,
       "make": "HYUNDAI",
-      "model": "TUCSON Limited",
-      "condition": "used"
+      "model": "Tucson",
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2018 FORD F-150 XLT",
       "vin": "1FTEX1EP3JKE04056",
       "stock": "20390",
       "color": "Stone Gray",
+      "trim": "XLT",
       "url": "https://willyml1979-dotcom.github.io/sunshine-mountain-ford-lincoln-ltd-mirror/used/4e734f3e40c0.html",
       "source_url": "https://smfl.ca/Inventory/2018-FORD-F-150-XLT-1FTEX1EP3JKE04056",
       "dealer_url": "https://smfl.ca/Inventory/2018-FORD-F-150-XLT-1FTEX1EP3JKE04056?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -92,14 +107,17 @@
       "odometer_km": 69769,
       "year": 2018,
       "make": "FORD",
-      "model": "F-150 XLT",
-      "condition": "used"
+      "model": "F-150",
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2018 FORD TRANSIT CONNECT VAN XLT",
       "vin": "NM0LS7F71J1369317",
       "stock": "20300",
       "color": "Frozen White",
+      "trim": "VAN XLT",
       "url": "https://willyml1979-dotcom.github.io/sunshine-mountain-ford-lincoln-ltd-mirror/used/f123f0c4ad1c.html",
       "source_url": "https://smfl.ca/Inventory/2018-FORD-TRANSITCONNECTVAN-XLT-NM0LS7F71J1369317",
       "dealer_url": "https://smfl.ca/Inventory/2018-FORD-TRANSITCONNECTVAN-XLT-NM0LS7F71J1369317?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -107,14 +125,17 @@
       "odometer_km": 123216,
       "year": 2018,
       "make": "FORD",
-      "model": "TRANSIT CONNECT VAN XLT",
-      "condition": "used"
+      "model": "Transit Connect",
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2018 RAM 1500 Tradesman",
       "vin": "1C6RR7FM6JS356501",
       "stock": "261602",
       "color": "Bright White",
+      "trim": "Tradesman",
       "url": "https://willyml1979-dotcom.github.io/sunshine-mountain-ford-lincoln-ltd-mirror/used/e4294736ba79.html",
       "source_url": "https://smfl.ca/Inventory/2018-RAM-1500-Tradesman-1C6RR7FM6JS356501",
       "dealer_url": "https://smfl.ca/Inventory/2018-RAM-1500-Tradesman-1C6RR7FM6JS356501?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -122,14 +143,17 @@
       "odometer_km": 117674,
       "year": 2018,
       "make": "RAM",
-      "model": "1500 Tradesman",
-      "condition": "used"
+      "model": "1500",
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2018 VOLKSWAGEN TIGUAN Trendline",
       "vin": "3VV0B7AX6JM155800",
       "stock": "261442",
       "color": "Black",
+      "trim": "Trendline",
       "url": "https://willyml1979-dotcom.github.io/sunshine-mountain-ford-lincoln-ltd-mirror/used/fe28cfdb71da.html",
       "source_url": "https://smfl.ca/Inventory/2018-VOLKSWAGEN-TIGUAN-Trendline-3VV0B7AX6JM155800",
       "dealer_url": "https://smfl.ca/Inventory/2018-VOLKSWAGEN-TIGUAN-Trendline-3VV0B7AX6JM155800?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -137,14 +161,17 @@
       "odometer_km": 101881,
       "year": 2018,
       "make": "VOLKSWAGEN",
-      "model": "TIGUAN Trendline",
-      "condition": "used"
+      "model": "Tiguan",
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2019 LINCOLN NAUTILUS Reserve",
       "vin": "2LMPJ8LP7KBL26401",
       "stock": "264381",
       "color": "Infinite Black Metallic",
+      "trim": "Reserve",
       "url": "https://willyml1979-dotcom.github.io/sunshine-mountain-ford-lincoln-ltd-mirror/used/6fcc5c824ef5.html",
       "source_url": "https://smfl.ca/Inventory/2019-LINCOLN-NAUTILUS-Reserve-2LMPJ8LP7KBL26401",
       "dealer_url": "https://smfl.ca/Inventory/2019-LINCOLN-NAUTILUS-Reserve-2LMPJ8LP7KBL26401?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -152,14 +179,17 @@
       "odometer_km": 40153,
       "year": 2019,
       "make": "LINCOLN",
-      "model": "NAUTILUS Reserve",
-      "condition": "used"
+      "model": "Nautilus",
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2020 FORD F-150 XLT",
       "vin": "1FTFW1E40LKD70285",
       "stock": "20081",
       "color": "Oxford White",
+      "trim": "XLT",
       "url": "https://willyml1979-dotcom.github.io/sunshine-mountain-ford-lincoln-ltd-mirror/used/73df1f8e5499.html",
       "source_url": "https://smfl.ca/Inventory/2020-FORD-F-150-XLT-1FTFW1E40LKD70285",
       "dealer_url": "https://smfl.ca/Inventory/2020-FORD-F-150-XLT-1FTFW1E40LKD70285?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -167,14 +197,17 @@
       "odometer_km": 142642,
       "year": 2020,
       "make": "FORD",
-      "model": "F-150 XLT",
-      "condition": "used"
+      "model": "F-150",
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2020 FORD FUSION ENERGI Titanium",
       "vin": "3FA6P0SU8LR233334",
       "stock": "20100",
       "color": "Silver Metallic",
+      "trim": "ENERGI Titanium",
       "url": "https://willyml1979-dotcom.github.io/sunshine-mountain-ford-lincoln-ltd-mirror/used/764fb060484e.html",
       "source_url": "https://smfl.ca/Inventory/2020-FORD-FUSIONENERGI-Titanium-3FA6P0SU8LR233334",
       "dealer_url": "https://smfl.ca/Inventory/2020-FORD-FUSIONENERGI-Titanium-3FA6P0SU8LR233334?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -182,14 +215,17 @@
       "odometer_km": 39105,
       "year": 2020,
       "make": "FORD",
-      "model": "FUSION ENERGI Titanium",
-      "condition": "used"
+      "model": "Fusion",
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2021 FORD BRONCO SPORT Base",
       "vin": "3FMCR9A66MRA24945",
       "stock": "20190",
       "color": "Silver Metallic",
+      "trim": "Base",
       "url": "https://willyml1979-dotcom.github.io/sunshine-mountain-ford-lincoln-ltd-mirror/used/40f9ff6693fe.html",
       "source_url": "https://smfl.ca/Inventory/2021-FORD-BRONCOSPORT-Base-3FMCR9A66MRA24945",
       "dealer_url": "https://smfl.ca/Inventory/2021-FORD-BRONCOSPORT-Base-3FMCR9A66MRA24945?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -197,14 +233,17 @@
       "odometer_km": 117483,
       "year": 2021,
       "make": "FORD",
-      "model": "BRONCO SPORT Base",
-      "condition": "used"
+      "model": "Bronco Sport",
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2021 GMC CANYON 4WD Elevation Standard",
       "vin": "1GTH6BEN2M1122568",
       "stock": "262391",
       "color": "Summit White",
+      "trim": "Elevation Standard",
       "url": "https://willyml1979-dotcom.github.io/sunshine-mountain-ford-lincoln-ltd-mirror/used/65dae931a426.html",
       "source_url": "https://smfl.ca/Inventory/2021-GMC-CANYON-4WDElevationStandard-1GTH6BEN2M1122568",
       "dealer_url": "https://smfl.ca/Inventory/2021-GMC-CANYON-4WDElevationStandard-1GTH6BEN2M1122568?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -212,14 +251,17 @@
       "odometer_km": 58517,
       "year": 2021,
       "make": "GMC",
-      "model": "CANYON 4WD Elevation Standard",
-      "condition": "used"
+      "model": "Canyon",
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2021 LINCOLN CORSAIR Reserve",
       "vin": "5LMCJ2D99MUL25056",
       "stock": "260461",
       "color": "Pristine White",
+      "trim": "Reserve",
       "url": "https://willyml1979-dotcom.github.io/sunshine-mountain-ford-lincoln-ltd-mirror/used/d33bb267b048.html",
       "source_url": "https://smfl.ca/Inventory/2021-LINCOLN-CORSAIR-Reserve-5LMCJ2D99MUL25056",
       "dealer_url": "https://smfl.ca/Inventory/2021-LINCOLN-CORSAIR-Reserve-5LMCJ2D99MUL25056?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -227,14 +269,17 @@
       "odometer_km": 135522,
       "year": 2021,
       "make": "LINCOLN",
-      "model": "CORSAIR Reserve",
-      "condition": "used"
+      "model": "Corsair",
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2021 PORSCHE MACAN GTS",
       "vin": "WP1AG2A59MLB50374",
       "stock": "19890",
       "color": "Blue",
+      "trim": "GTS",
       "url": "https://willyml1979-dotcom.github.io/sunshine-mountain-ford-lincoln-ltd-mirror/used/d6e1a08894de.html",
       "source_url": "https://smfl.ca/Inventory/2021-PORSCHE-MACAN-GTS-WP1AG2A59MLB50374",
       "dealer_url": "https://smfl.ca/Inventory/2021-PORSCHE-MACAN-GTS-WP1AG2A59MLB50374?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -242,14 +287,17 @@
       "odometer_km": 45302,
       "year": 2021,
       "make": "PORSCHE",
-      "model": "MACAN GTS",
-      "condition": "used"
+      "model": "Macan",
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2021 RAM 1500 CLASSIC Express",
       "vin": "3C6RR7KT5MG527232",
       "stock": "262822",
       "color": "Patriot Blue Pearl",
+      "trim": "Express",
       "url": "https://willyml1979-dotcom.github.io/sunshine-mountain-ford-lincoln-ltd-mirror/used/79709f166121.html",
       "source_url": "https://smfl.ca/Inventory/2021-RAM-1500CLASSIC-Express-3C6RR7KT5MG527232",
       "dealer_url": "https://smfl.ca/Inventory/2021-RAM-1500CLASSIC-Express-3C6RR7KT5MG527232?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -257,14 +305,17 @@
       "odometer_km": 61875,
       "year": 2021,
       "make": "RAM",
-      "model": "1500 CLASSIC Express",
-      "condition": "used"
+      "model": "1500 Classic",
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2022 FORD ESCAPE SE",
       "vin": "1FMCU0G62NUB33396",
       "stock": "20380",
       "color": "Atlas Blue Metallic",
+      "trim": "SE",
       "url": "https://willyml1979-dotcom.github.io/sunshine-mountain-ford-lincoln-ltd-mirror/used/2cf7fc120afe.html",
       "source_url": "https://smfl.ca/Inventory/2022-FORD-ESCAPE-SE-1FMCU0G62NUB33396",
       "dealer_url": "https://smfl.ca/Inventory/2022-FORD-ESCAPE-SE-1FMCU0G62NUB33396?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -272,14 +323,17 @@
       "odometer_km": 26663,
       "year": 2022,
       "make": "FORD",
-      "model": "ESCAPE SE",
-      "condition": "used"
+      "model": "Escape",
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2022 FORD MAVERICK XL",
       "vin": "3FTTW8F99NRA12672",
       "stock": "263143",
       "color": "Cactus Gray",
+      "trim": "XL",
       "url": "https://willyml1979-dotcom.github.io/sunshine-mountain-ford-lincoln-ltd-mirror/used/7828a04593c9.html",
       "source_url": "https://smfl.ca/Inventory/2022-FORD-MAVERICK-XL-3FTTW8F99NRA12672",
       "dealer_url": "https://smfl.ca/Inventory/2022-FORD-MAVERICK-XL-3FTTW8F99NRA12672?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -287,14 +341,17 @@
       "odometer_km": 77702,
       "year": 2022,
       "make": "FORD",
-      "model": "MAVERICK XL",
-      "condition": "used"
+      "model": "Maverick",
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2022 HONDA CIVIC SEDAN Sport",
       "vin": "2HGFE2F53NH129686",
       "stock": "263331",
       "color": "Red",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/sunshine-mountain-ford-lincoln-ltd-mirror/used/548f9fe0a581.html",
       "source_url": "https://smfl.ca/Inventory/2022-HONDA-CIVICSEDAN-Sport-2HGFE2F53NH129686",
       "dealer_url": "https://smfl.ca/Inventory/2022-HONDA-CIVICSEDAN-Sport-2HGFE2F53NH129686?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -302,14 +359,17 @@
       "odometer_km": 59117,
       "year": 2022,
       "make": "HONDA",
-      "model": "CIVIC SEDAN Sport",
-      "condition": "used"
+      "model": "Civic",
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2022 RAM 1500 Laramie",
       "vin": "1C6SRFJT6NN204913",
       "stock": "263981",
       "color": "Granite Crystal Metallic",
+      "trim": "Laramie",
       "url": "https://willyml1979-dotcom.github.io/sunshine-mountain-ford-lincoln-ltd-mirror/used/4a8151000ec0.html",
       "source_url": "https://smfl.ca/Inventory/2022-RAM-1500-Laramie-1C6SRFJT6NN204913",
       "dealer_url": "https://smfl.ca/Inventory/2022-RAM-1500-Laramie-1C6SRFJT6NN204913?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -317,14 +377,17 @@
       "odometer_km": 82490,
       "year": 2022,
       "make": "RAM",
-      "model": "1500 Laramie",
-      "condition": "used"
+      "model": "1500",
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2022 RAM 1500 CLASSIC Express",
       "vin": "3C6RR7KG7NG242889",
       "stock": "20340",
       "color": "Granite Crystal Metallic",
+      "trim": "Express",
       "url": "https://willyml1979-dotcom.github.io/sunshine-mountain-ford-lincoln-ltd-mirror/used/1cde1da37958.html",
       "source_url": "https://smfl.ca/Inventory/2022-RAM-1500CLASSIC-Express-3C6RR7KG7NG242889",
       "dealer_url": "https://smfl.ca/Inventory/2022-RAM-1500CLASSIC-Express-3C6RR7KG7NG242889?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -332,14 +395,17 @@
       "odometer_km": 66489,
       "year": 2022,
       "make": "RAM",
-      "model": "1500 CLASSIC Express",
-      "condition": "used"
+      "model": "1500 Classic",
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2023 CHEVROLET TRAILBLAZER LS",
       "vin": "KL79MNSL5PB207396",
       "stock": "20310",
       "color": "Summit White",
+      "trim": "LS",
       "url": "https://willyml1979-dotcom.github.io/sunshine-mountain-ford-lincoln-ltd-mirror/used/e4eb19dd1b6f.html",
       "source_url": "https://smfl.ca/Inventory/2023-CHEVROLET-TRAILBLAZER-LS-KL79MNSL5PB207396",
       "dealer_url": "https://smfl.ca/Inventory/2023-CHEVROLET-TRAILBLAZER-LS-KL79MNSL5PB207396?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -347,14 +413,17 @@
       "odometer_km": 46394,
       "year": 2023,
       "make": "CHEVROLET",
-      "model": "TRAILBLAZER LS",
-      "condition": "used"
+      "model": "Trailblazer",
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2023 FORD BRONCO Heritage Limited Edition",
       "vin": "1FMEE4GPXPLA70742",
       "stock": "20430",
       "color": "Yellowstone",
+      "trim": "Heritage Limited Edition",
       "url": "https://willyml1979-dotcom.github.io/sunshine-mountain-ford-lincoln-ltd-mirror/used/c13b2cd414f5.html",
       "source_url": "https://smfl.ca/Inventory/2023-FORD-BRONCO-HeritageLimitedEdition-1FMEE4GPXPLA70742",
       "dealer_url": "https://smfl.ca/Inventory/2023-FORD-BRONCO-HeritageLimitedEdition-1FMEE4GPXPLA70742?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -362,14 +431,17 @@
       "odometer_km": 44066,
       "year": 2023,
       "make": "FORD",
-      "model": "BRONCO Heritage Limited Edition",
-      "condition": "used"
+      "model": "Bronco",
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2023 FORD F-150 XLT",
       "vin": "1FTFW1ED0PFB14274",
       "stock": "264301",
       "color": "Oxford White",
+      "trim": "XLT",
       "url": "https://willyml1979-dotcom.github.io/sunshine-mountain-ford-lincoln-ltd-mirror/used/0ba8fb875d7b.html",
       "source_url": "https://smfl.ca/Inventory/2023-FORD-F-150-XLT-1FTFW1ED0PFB14274",
       "dealer_url": "https://smfl.ca/Inventory/2023-FORD-F-150-XLT-1FTFW1ED0PFB14274?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -377,14 +449,17 @@
       "odometer_km": 151515,
       "year": 2023,
       "make": "FORD",
-      "model": "F-150 XLT",
-      "condition": "used"
+      "model": "F-150",
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2023 LINCOLN NAVIGATOR Reserve",
       "vin": "5LMJJ2LG9PEL05234",
       "stock": "261871",
       "color": "Infinite Black Metallic Clearcoat",
+      "trim": "Reserve",
       "url": "https://willyml1979-dotcom.github.io/sunshine-mountain-ford-lincoln-ltd-mirror/used/cafb5de3a3ea.html",
       "source_url": "https://smfl.ca/Inventory/2023-LINCOLN-NAVIGATOR-Reserve-5LMJJ2LG9PEL05234",
       "dealer_url": "https://smfl.ca/Inventory/2023-LINCOLN-NAVIGATOR-Reserve-5LMJJ2LG9PEL05234?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -392,14 +467,17 @@
       "odometer_km": 82158,
       "year": 2023,
       "make": "LINCOLN",
-      "model": "NAVIGATOR Reserve",
-      "condition": "used"
+      "model": "Navigator",
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2023 MAZDA CX-5 Signature",
       "vin": "JM3KFBEY6P0237286",
       "stock": "20420",
       "color": "White",
+      "trim": "Signature",
       "url": "https://willyml1979-dotcom.github.io/sunshine-mountain-ford-lincoln-ltd-mirror/used/ecbf47ac02ec.html",
       "source_url": "https://smfl.ca/Inventory/2023-MAZDA-CX-5-Signature-JM3KFBEY6P0237286",
       "dealer_url": "https://smfl.ca/Inventory/2023-MAZDA-CX-5-Signature-JM3KFBEY6P0237286?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -407,14 +485,17 @@
       "odometer_km": 49729,
       "year": 2023,
       "make": "MAZDA",
-      "model": "CX-5 Signature",
-      "condition": "used"
+      "model": "CX-5",
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2024 FORD BRONCO SPORT Outer Banks",
       "vin": "3FMCR9C60RRE65944",
       "stock": "263371",
       "color": "Azure Gray Metallic Tri-Coat",
+      "trim": "Outer Banks",
       "url": "https://willyml1979-dotcom.github.io/sunshine-mountain-ford-lincoln-ltd-mirror/used/6247b7a6e718.html",
       "source_url": "https://smfl.ca/Inventory/2024-FORD-BRONCOSPORT-OuterBanks-3FMCR9C60RRE65944",
       "dealer_url": "https://smfl.ca/Inventory/2024-FORD-BRONCOSPORT-OuterBanks-3FMCR9C60RRE65944?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -422,14 +503,17 @@
       "odometer_km": 55044,
       "year": 2024,
       "make": "FORD",
-      "model": "BRONCO SPORT Outer Banks",
-      "condition": "used"
+      "model": "Bronco Sport",
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2024 FORD RANGER Raptor",
       "vin": "1FTER4LR8RLE12465",
       "stock": "19981",
       "color": "Shelter Green Metallic",
+      "trim": "Raptor",
       "url": "https://willyml1979-dotcom.github.io/sunshine-mountain-ford-lincoln-ltd-mirror/used/b5458c3db685.html",
       "source_url": "https://smfl.ca/Inventory/2024-FORD-RANGER-Raptor-1FTER4LR8RLE12465",
       "dealer_url": "https://smfl.ca/Inventory/2024-FORD-RANGER-Raptor-1FTER4LR8RLE12465?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -437,14 +521,17 @@
       "odometer_km": 21089,
       "year": 2024,
       "make": "FORD",
-      "model": "RANGER Raptor",
-      "condition": "used"
+      "model": "Ranger",
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2025 FORD F-150 XLT",
       "vin": "1FTEW3LP6SKD42137",
       "stock": "19532",
       "color": "Oxford White",
+      "trim": "XLT",
       "url": "https://willyml1979-dotcom.github.io/sunshine-mountain-ford-lincoln-ltd-mirror/used/38f07f5cfe83.html",
       "source_url": "https://smfl.ca/Inventory/2025-FORD-F-150-XLT-1FTEW3LP6SKD42137",
       "dealer_url": "https://smfl.ca/Inventory/2025-FORD-F-150-XLT-1FTEW3LP6SKD42137?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -452,14 +539,17 @@
       "odometer_km": 28845,
       "year": 2025,
       "make": "FORD",
-      "model": "F-150 XLT",
-      "condition": "used"
+      "model": "F-150",
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2025 FORD MUSTANG GT",
       "vin": "1FA6P8CF2S5408483",
       "stock": "261861",
       "color": "Race Red",
+      "trim": "GT",
       "url": "https://willyml1979-dotcom.github.io/sunshine-mountain-ford-lincoln-ltd-mirror/used/775256052d09.html",
       "source_url": "https://smfl.ca/Inventory/2025-FORD-MUSTANG-GT-1FA6P8CF2S5408483",
       "dealer_url": "https://smfl.ca/Inventory/2025-FORD-MUSTANG-GT-1FA6P8CF2S5408483?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -467,14 +557,17 @@
       "odometer_km": 5080,
       "year": 2025,
       "make": "FORD",
-      "model": "MUSTANG GT",
-      "condition": "used"
+      "model": "Mustang",
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 FORD BRONCO Base",
       "vin": "1FMDE6AH8TLA48323",
       "stock": "260550",
       "color": "Shadow Black",
+      "trim": "Base",
       "url": "https://willyml1979-dotcom.github.io/sunshine-mountain-ford-lincoln-ltd-mirror/new/fc1a981c6e6c.html",
       "source_url": "https://smfl.ca/Inventory/2026-FORD-BRONCO-Base-1FMDE6AH8TLA48323",
       "dealer_url": "https://smfl.ca/Inventory/2026-FORD-BRONCO-Base-1FMDE6AH8TLA48323?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -482,14 +575,17 @@
       "odometer_km": 45,
       "year": 2026,
       "make": "FORD",
-      "model": "BRONCO Base",
-      "condition": "new"
+      "model": "Bronco",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 FORD BRONCO SPORT Badlands",
       "vin": "3FMCR9DA4TRE97340",
       "stock": "263530",
       "color": "Velocity Blue Metallic",
+      "trim": "Badlands",
       "url": "https://willyml1979-dotcom.github.io/sunshine-mountain-ford-lincoln-ltd-mirror/new/a3f5e1f90a36.html",
       "source_url": "https://smfl.ca/Inventory/2026-FORD-BRONCOSPORT-Badlands-3FMCR9DA4TRE97340",
       "dealer_url": "https://smfl.ca/Inventory/2026-FORD-BRONCOSPORT-Badlands-3FMCR9DA4TRE97340?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -497,14 +593,17 @@
       "odometer_km": 11,
       "year": 2026,
       "make": "FORD",
-      "model": "BRONCO SPORT Badlands",
-      "condition": "new"
+      "model": "Bronco Sport",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 FORD BRONCO SPORT Badlands",
       "vin": "3FMCR9DA9TRE86916",
       "stock": "262980",
       "color": "Azure Grey Metallic Tri-Coat",
+      "trim": "Badlands",
       "url": "https://willyml1979-dotcom.github.io/sunshine-mountain-ford-lincoln-ltd-mirror/new/d2d2116258d4.html",
       "source_url": "https://smfl.ca/Inventory/2026-FORD-BRONCOSPORT-Badlands-3FMCR9DA9TRE86916",
       "dealer_url": "https://smfl.ca/Inventory/2026-FORD-BRONCOSPORT-Badlands-3FMCR9DA9TRE86916?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -512,14 +611,17 @@
       "odometer_km": 21,
       "year": 2026,
       "make": "FORD",
-      "model": "BRONCO SPORT Badlands",
-      "condition": "new"
+      "model": "Bronco Sport",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 FORD BRONCO SPORT Big Bend",
       "vin": "3FMCR9BN0TRF04922",
       "stock": "263500",
       "color": "Velocity Blue Metallic",
+      "trim": "Big Bend",
       "url": "https://willyml1979-dotcom.github.io/sunshine-mountain-ford-lincoln-ltd-mirror/new/7b9fa36cc514.html",
       "source_url": "https://smfl.ca/Inventory/2026-FORD-BRONCOSPORT-BigBend-3FMCR9BN0TRF04922",
       "dealer_url": "https://smfl.ca/Inventory/2026-FORD-BRONCOSPORT-BigBend-3FMCR9BN0TRF04922?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -527,14 +629,17 @@
       "odometer_km": 11,
       "year": 2026,
       "make": "FORD",
-      "model": "BRONCO SPORT Big Bend",
-      "condition": "new"
+      "model": "Bronco Sport",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 FORD BRONCO SPORT Big Bend",
       "vin": "3FMCR9BN2TRE86469",
       "stock": "263080",
       "color": "Azure Grey Metallic Tri-Coat",
+      "trim": "Big Bend",
       "url": "https://willyml1979-dotcom.github.io/sunshine-mountain-ford-lincoln-ltd-mirror/new/38684be78ff2.html",
       "source_url": "https://smfl.ca/Inventory/2026-FORD-BRONCOSPORT-BigBend-3FMCR9BN2TRE86469",
       "dealer_url": "https://smfl.ca/Inventory/2026-FORD-BRONCOSPORT-BigBend-3FMCR9BN2TRE86469?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -542,14 +647,17 @@
       "odometer_km": 11,
       "year": 2026,
       "make": "FORD",
-      "model": "BRONCO SPORT Big Bend",
-      "condition": "new"
+      "model": "Bronco Sport",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 FORD BRONCO SPORT Big Bend",
       "vin": "3FMCR9BN9TRE49788",
       "stock": "262170",
       "color": "Shadow Black",
+      "trim": "Big Bend",
       "url": "https://willyml1979-dotcom.github.io/sunshine-mountain-ford-lincoln-ltd-mirror/new/f6708bdcefbc.html",
       "source_url": "https://smfl.ca/Inventory/2026-FORD-BRONCOSPORT-BigBend-3FMCR9BN9TRE49788",
       "dealer_url": "https://smfl.ca/Inventory/2026-FORD-BRONCOSPORT-BigBend-3FMCR9BN9TRE49788?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -557,14 +665,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "FORD",
-      "model": "BRONCO SPORT Big Bend",
-      "condition": "new"
+      "model": "Bronco Sport",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 FORD BRONCO SPORT Outer Banks",
       "vin": "3FMCR9CN1TRF12199",
       "stock": "263930",
       "color": "Carbonized Grey Metallic",
+      "trim": "Outer Banks",
       "url": "https://willyml1979-dotcom.github.io/sunshine-mountain-ford-lincoln-ltd-mirror/new/e4f0cf0807bf.html",
       "source_url": "https://smfl.ca/Inventory/2026-FORD-BRONCOSPORT-OuterBanks-3FMCR9CN1TRF12199",
       "dealer_url": "https://smfl.ca/Inventory/2026-FORD-BRONCOSPORT-OuterBanks-3FMCR9CN1TRF12199?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -572,14 +683,17 @@
       "odometer_km": 11,
       "year": 2026,
       "make": "FORD",
-      "model": "BRONCO SPORT Outer Banks",
-      "condition": "new"
+      "model": "Bronco Sport",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 FORD BRONCO SPORT Outer Banks",
       "vin": "3FMCR9CN3TRE38672",
       "stock": "261650",
       "color": "Velocity Blue Metallic",
+      "trim": "Outer Banks",
       "url": "https://willyml1979-dotcom.github.io/sunshine-mountain-ford-lincoln-ltd-mirror/new/d049e2bf1cfd.html",
       "source_url": "https://smfl.ca/Inventory/2026-FORD-BRONCOSPORT-OuterBanks-3FMCR9CN3TRE38672",
       "dealer_url": "https://smfl.ca/Inventory/2026-FORD-BRONCOSPORT-OuterBanks-3FMCR9CN3TRE38672?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -587,14 +701,17 @@
       "odometer_km": 13827,
       "year": 2026,
       "make": "FORD",
-      "model": "BRONCO SPORT Outer Banks",
-      "condition": "new"
+      "model": "Bronco Sport",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 FORD BRONCO SPORT Outer Banks",
       "vin": "3FMCR9CN6TRE95996",
       "stock": "263830",
       "color": "Carbonized Grey Metallic",
+      "trim": "Outer Banks",
       "url": "https://willyml1979-dotcom.github.io/sunshine-mountain-ford-lincoln-ltd-mirror/new/24a28ecf6583.html",
       "source_url": "https://smfl.ca/Inventory/2026-FORD-BRONCOSPORT-OuterBanks-3FMCR9CN6TRE95996",
       "dealer_url": "https://smfl.ca/Inventory/2026-FORD-BRONCOSPORT-OuterBanks-3FMCR9CN6TRE95996?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -602,14 +719,17 @@
       "odometer_km": 17,
       "year": 2026,
       "make": "FORD",
-      "model": "BRONCO SPORT Outer Banks",
-      "condition": "new"
+      "model": "Bronco Sport",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 FORD BRONCO SPORT Outer Banks",
       "vin": "3FMCR9CN7TRF01417",
       "stock": "263510",
       "color": "Orange Fury Metallic Tri-Coat",
+      "trim": "Outer Banks",
       "url": "https://willyml1979-dotcom.github.io/sunshine-mountain-ford-lincoln-ltd-mirror/new/2668f883f75f.html",
       "source_url": "https://smfl.ca/Inventory/2026-FORD-BRONCOSPORT-OuterBanks-3FMCR9CN7TRF01417",
       "dealer_url": "https://smfl.ca/Inventory/2026-FORD-BRONCOSPORT-OuterBanks-3FMCR9CN7TRF01417?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -617,14 +737,17 @@
       "odometer_km": 11,
       "year": 2026,
       "make": "FORD",
-      "model": "BRONCO SPORT Outer Banks",
-      "condition": "new"
+      "model": "Bronco Sport",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 FORD BRONCO SPORT Outer Banks",
       "vin": "3FMCR9CN7TRF04897",
       "stock": "263640",
       "color": "Shadow Black",
+      "trim": "Outer Banks",
       "url": "https://willyml1979-dotcom.github.io/sunshine-mountain-ford-lincoln-ltd-mirror/new/96a076f74b13.html",
       "source_url": "https://smfl.ca/Inventory/2026-FORD-BRONCOSPORT-OuterBanks-3FMCR9CN7TRF04897",
       "dealer_url": "https://smfl.ca/Inventory/2026-FORD-BRONCOSPORT-OuterBanks-3FMCR9CN7TRF04897?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -632,14 +755,17 @@
       "odometer_km": 11,
       "year": 2026,
       "make": "FORD",
-      "model": "BRONCO SPORT Outer Banks",
-      "condition": "new"
+      "model": "Bronco Sport",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 FORD EXPLORER ST-Line",
       "vin": "1FMUK8KH2TGC36816",
       "stock": "263660",
       "color": "Space White Metallic",
+      "trim": "ST-Line",
       "url": "https://willyml1979-dotcom.github.io/sunshine-mountain-ford-lincoln-ltd-mirror/new/84fcd0829afe.html",
       "source_url": "https://smfl.ca/Inventory/2026-FORD-EXPLORER-ST-Line-1FMUK8KH2TGC36816",
       "dealer_url": "https://smfl.ca/Inventory/2026-FORD-EXPLORER-ST-Line-1FMUK8KH2TGC36816?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -647,14 +773,17 @@
       "odometer_km": 11,
       "year": 2026,
       "make": "FORD",
-      "model": "EXPLORER ST-Line",
-      "condition": "new"
+      "model": "Explorer",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 FORD F-150 STX",
       "vin": "1FTEW2LP3TKE50288",
       "stock": "263190",
       "color": "Carbonized Grey Metallic",
+      "trim": "STX",
       "url": "https://willyml1979-dotcom.github.io/sunshine-mountain-ford-lincoln-ltd-mirror/new/3d5da8f6c9b6.html",
       "source_url": "https://smfl.ca/Inventory/2026-FORD-F-150-STX-1FTEW2LP3TKE50288",
       "dealer_url": "https://smfl.ca/Inventory/2026-FORD-F-150-STX-1FTEW2LP3TKE50288?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -662,14 +791,17 @@
       "odometer_km": 15,
       "year": 2026,
       "make": "FORD",
-      "model": "F-150 STX",
-      "condition": "new"
+      "model": "F-150",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 FORD F-150 STX",
       "vin": "1FTEW2LP7TKE50388",
       "stock": "263200",
       "color": "Carbonized Grey Metallic",
+      "trim": "STX",
       "url": "https://willyml1979-dotcom.github.io/sunshine-mountain-ford-lincoln-ltd-mirror/new/143f4234462b.html",
       "source_url": "https://smfl.ca/Inventory/2026-FORD-F-150-STX-1FTEW2LP7TKE50388",
       "dealer_url": "https://smfl.ca/Inventory/2026-FORD-F-150-STX-1FTEW2LP7TKE50388?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -677,14 +809,17 @@
       "odometer_km": 15,
       "year": 2026,
       "make": "FORD",
-      "model": "F-150 STX",
-      "condition": "new"
+      "model": "F-150",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 FORD F-150 STX",
       "vin": "1FTFW2L80TKE02874",
       "stock": "261980",
       "color": "Iconic Silver Metallic",
+      "trim": "STX",
       "url": "https://willyml1979-dotcom.github.io/sunshine-mountain-ford-lincoln-ltd-mirror/new/0ffda24140c5.html",
       "source_url": "https://smfl.ca/Inventory/2026-FORD-F-150-STX-1FTFW2L80TKE02874",
       "dealer_url": "https://smfl.ca/Inventory/2026-FORD-F-150-STX-1FTFW2L80TKE02874?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -692,14 +827,17 @@
       "odometer_km": 16,
       "year": 2026,
       "make": "FORD",
-      "model": "F-150 STX",
-      "condition": "new"
+      "model": "F-150",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 FORD F-150 XLT",
       "vin": "1FTEW3LP3TFB53844",
       "stock": "263230",
       "color": "Antimatter Blue Metallic",
+      "trim": "XLT",
       "url": "https://willyml1979-dotcom.github.io/sunshine-mountain-ford-lincoln-ltd-mirror/new/22ab22523316.html",
       "source_url": "https://smfl.ca/Inventory/2026-FORD-F-150-XLT-1FTEW3LP3TFB53844",
       "dealer_url": "https://smfl.ca/Inventory/2026-FORD-F-150-XLT-1FTEW3LP3TFB53844?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -707,14 +845,17 @@
       "odometer_km": 11,
       "year": 2026,
       "make": "FORD",
-      "model": "F-150 XLT",
-      "condition": "new"
+      "model": "F-150",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 FORD F-150 XLT",
       "vin": "1FTEW3LP8TKE55346",
       "stock": "263180",
       "color": "Carbonized Grey Metallic",
+      "trim": "XLT",
       "url": "https://willyml1979-dotcom.github.io/sunshine-mountain-ford-lincoln-ltd-mirror/new/a7d12549616a.html",
       "source_url": "https://smfl.ca/Inventory/2026-FORD-F-150-XLT-1FTEW3LP8TKE55346",
       "dealer_url": "https://smfl.ca/Inventory/2026-FORD-F-150-XLT-1FTEW3LP8TKE55346?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -722,14 +863,17 @@
       "odometer_km": 25,
       "year": 2026,
       "make": "FORD",
-      "model": "F-150 XLT",
-      "condition": "new"
+      "model": "F-150",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 FORD F-150 XLT",
       "vin": "1FTFW3L53TKE29577",
       "stock": "262620",
       "color": "Oxford White",
+      "trim": "XLT",
       "url": "https://willyml1979-dotcom.github.io/sunshine-mountain-ford-lincoln-ltd-mirror/new/298a8fcbe0f9.html",
       "source_url": "https://smfl.ca/Inventory/2026-FORD-F-150-XLT-1FTFW3L53TKE29577",
       "dealer_url": "https://smfl.ca/Inventory/2026-FORD-F-150-XLT-1FTFW3L53TKE29577?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -737,14 +881,17 @@
       "odometer_km": 100,
       "year": 2026,
       "make": "FORD",
-      "model": "F-150 XLT",
-      "condition": "new"
+      "model": "F-150",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 FORD F-150 XLT",
       "vin": "1FTFW3L8XTKE21521",
       "stock": "262540",
       "color": "Agate Black Metallic",
+      "trim": "XLT",
       "url": "https://willyml1979-dotcom.github.io/sunshine-mountain-ford-lincoln-ltd-mirror/new/bfceffa24ad7.html",
       "source_url": "https://smfl.ca/Inventory/2026-FORD-F-150-XLT-1FTFW3L8XTKE21521",
       "dealer_url": "https://smfl.ca/Inventory/2026-FORD-F-150-XLT-1FTFW3L8XTKE21521?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -752,14 +899,17 @@
       "odometer_km": 31,
       "year": 2026,
       "make": "FORD",
-      "model": "F-150 XLT",
-      "condition": "new"
+      "model": "F-150",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 FORD MAVERICK Tremor",
       "vin": "3FTTW8NA4TRA48598",
       "stock": "261560",
       "color": "Space White Metallic",
+      "trim": "Tremor",
       "url": "https://willyml1979-dotcom.github.io/sunshine-mountain-ford-lincoln-ltd-mirror/new/eb255ae5b11f.html",
       "source_url": "https://smfl.ca/Inventory/2026-FORD-MAVERICK-Tremor-3FTTW8NA4TRA48598",
       "dealer_url": "https://smfl.ca/Inventory/2026-FORD-MAVERICK-Tremor-3FTTW8NA4TRA48598?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -767,14 +917,17 @@
       "odometer_km": 14,
       "year": 2026,
       "make": "FORD",
-      "model": "MAVERICK Tremor",
-      "condition": "new"
+      "model": "Maverick",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 FORD MAVERICK XLT",
       "vin": "3FTTW8H31TRB29507",
       "stock": "263550",
       "color": "Azure Grey Metallic Tri-Coat",
+      "trim": "XLT",
       "url": "https://willyml1979-dotcom.github.io/sunshine-mountain-ford-lincoln-ltd-mirror/new/ea48f8444367.html",
       "source_url": "https://smfl.ca/Inventory/2026-FORD-MAVERICK-XLT-3FTTW8H31TRB29507",
       "dealer_url": "https://smfl.ca/Inventory/2026-FORD-MAVERICK-XLT-3FTTW8H31TRB29507?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -782,14 +935,17 @@
       "odometer_km": 11,
       "year": 2026,
       "make": "FORD",
-      "model": "MAVERICK XLT",
-      "condition": "new"
+      "model": "Maverick",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 FORD MAVERICK XLT",
       "vin": "3FTTW8J30TRB27919",
       "stock": "263380",
       "color": "Space White Metallic",
+      "trim": "XLT",
       "url": "https://willyml1979-dotcom.github.io/sunshine-mountain-ford-lincoln-ltd-mirror/new/0be420773aac.html",
       "source_url": "https://smfl.ca/Inventory/2026-FORD-MAVERICK-XLT-3FTTW8J30TRB27919",
       "dealer_url": "https://smfl.ca/Inventory/2026-FORD-MAVERICK-XLT-3FTTW8J30TRB27919?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -797,14 +953,17 @@
       "odometer_km": 13,
       "year": 2026,
       "make": "FORD",
-      "model": "MAVERICK XLT",
-      "condition": "new"
+      "model": "Maverick",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 FORD MAVERICK XLT",
       "vin": "3FTTW8J31TRB15553",
       "stock": "264180",
       "color": "Shadow Black",
+      "trim": "XLT",
       "url": "https://willyml1979-dotcom.github.io/sunshine-mountain-ford-lincoln-ltd-mirror/new/85eda33ee1c5.html",
       "source_url": "https://smfl.ca/Inventory/2026-FORD-MAVERICK-XLT-3FTTW8J31TRB15553",
       "dealer_url": "https://smfl.ca/Inventory/2026-FORD-MAVERICK-XLT-3FTTW8J31TRB15553?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -812,14 +971,17 @@
       "odometer_km": 36,
       "year": 2026,
       "make": "FORD",
-      "model": "MAVERICK XLT",
-      "condition": "new"
+      "model": "Maverick",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 FORD MAVERICK XLT",
       "vin": "3FTTW8J39TRB29250",
       "stock": "263630",
       "color": "Shadow Black",
+      "trim": "XLT",
       "url": "https://willyml1979-dotcom.github.io/sunshine-mountain-ford-lincoln-ltd-mirror/new/da8d4c571c3f.html",
       "source_url": "https://smfl.ca/Inventory/2026-FORD-MAVERICK-XLT-3FTTW8J39TRB29250",
       "dealer_url": "https://smfl.ca/Inventory/2026-FORD-MAVERICK-XLT-3FTTW8J39TRB29250?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -827,14 +989,17 @@
       "odometer_km": 17,
       "year": 2026,
       "make": "FORD",
-      "model": "MAVERICK XLT",
-      "condition": "new"
+      "model": "Maverick",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 FORD MUSTANG MACH-E Premium",
       "vin": "3FMTK3S57TMA17389",
       "stock": "262760",
       "color": "Star White Metallic Tri-Coat",
+      "trim": "Premium",
       "url": "https://willyml1979-dotcom.github.io/sunshine-mountain-ford-lincoln-ltd-mirror/new/93bf81813e36.html",
       "source_url": "https://smfl.ca/Inventory/2026-FORD-MUSTANGMACH-E-Premium-3FMTK3S57TMA17389",
       "dealer_url": "https://smfl.ca/Inventory/2026-FORD-MUSTANGMACH-E-Premium-3FMTK3S57TMA17389?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -842,14 +1007,17 @@
       "odometer_km": 11,
       "year": 2026,
       "make": "FORD",
-      "model": "MUSTANG MACH-E Premium",
-      "condition": "new"
+      "model": "Mustang Mach-E",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 FORD MUSTANG MACH-E Select",
       "vin": "3FMTK1R49TMA09375",
       "stock": "261730",
       "color": "Eruption Green Metallic",
+      "trim": "Select",
       "url": "https://willyml1979-dotcom.github.io/sunshine-mountain-ford-lincoln-ltd-mirror/new/4907e7c34250.html",
       "source_url": "https://smfl.ca/Inventory/2026-FORD-MUSTANGMACH-E-Select-3FMTK1R49TMA09375",
       "dealer_url": "https://smfl.ca/Inventory/2026-FORD-MUSTANGMACH-E-Select-3FMTK1R49TMA09375?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -857,14 +1025,17 @@
       "odometer_km": 18,
       "year": 2026,
       "make": "FORD",
-      "model": "MUSTANG MACH-E Select",
-      "condition": "new"
+      "model": "Mustang Mach-E",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 FORD MUSTANG MACH-E Select",
       "vin": "3FMTK1S52TMA23718",
       "stock": "263790",
       "color": "Shadow Black",
+      "trim": "Select",
       "url": "https://willyml1979-dotcom.github.io/sunshine-mountain-ford-lincoln-ltd-mirror/new/627ae687b790.html",
       "source_url": "https://smfl.ca/Inventory/2026-FORD-MUSTANGMACH-E-Select-3FMTK1S52TMA23718",
       "dealer_url": "https://smfl.ca/Inventory/2026-FORD-MUSTANGMACH-E-Select-3FMTK1S52TMA23718?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -872,14 +1043,17 @@
       "odometer_km": 11,
       "year": 2026,
       "make": "FORD",
-      "model": "MUSTANG MACH-E Select",
-      "condition": "new"
+      "model": "Mustang Mach-E",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 FORD MUSTANG MACH-E Select",
       "vin": "3FMTK1S53TMA14669",
       "stock": "262400",
       "color": "Velocity Blue Metallic",
+      "trim": "Select",
       "url": "https://willyml1979-dotcom.github.io/sunshine-mountain-ford-lincoln-ltd-mirror/new/ee601b59af6a.html",
       "source_url": "https://smfl.ca/Inventory/2026-FORD-MUSTANGMACH-E-Select-3FMTK1S53TMA14669",
       "dealer_url": "https://smfl.ca/Inventory/2026-FORD-MUSTANGMACH-E-Select-3FMTK1S53TMA14669?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -887,14 +1061,17 @@
       "odometer_km": 20,
       "year": 2026,
       "make": "FORD",
-      "model": "MUSTANG MACH-E Select",
-      "condition": "new"
+      "model": "Mustang Mach-E",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 FORD RANGER LARIAT",
       "vin": "1FTER4KP1TLE38476",
       "stock": "264050",
       "color": "Velocity Blue Metallic",
+      "trim": "LARIAT",
       "url": "https://willyml1979-dotcom.github.io/sunshine-mountain-ford-lincoln-ltd-mirror/new/2980747c7eaa.html",
       "source_url": "https://smfl.ca/Inventory/2026-FORD-RANGER-LARIAT-1FTER4KP1TLE38476",
       "dealer_url": "https://smfl.ca/Inventory/2026-FORD-RANGER-LARIAT-1FTER4KP1TLE38476?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -902,14 +1079,17 @@
       "odometer_km": 15,
       "year": 2026,
       "make": "FORD",
-      "model": "RANGER LARIAT",
-      "condition": "new"
+      "model": "Ranger",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 FORD RANGER XL",
       "vin": "1FTER4PH2TLE22756",
       "stock": "262690",
       "color": "Oxford White",
+      "trim": "XL",
       "url": "https://willyml1979-dotcom.github.io/sunshine-mountain-ford-lincoln-ltd-mirror/new/33ddb2e841bc.html",
       "source_url": "https://smfl.ca/Inventory/2026-FORD-RANGER-XL-1FTER4PH2TLE22756",
       "dealer_url": "https://smfl.ca/Inventory/2026-FORD-RANGER-XL-1FTER4PH2TLE22756?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -917,14 +1097,17 @@
       "odometer_km": 45,
       "year": 2026,
       "make": "FORD",
-      "model": "RANGER XL",
-      "condition": "new"
+      "model": "Ranger",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 FORD RANGER XLT",
       "vin": "1FTER4HH2TLE37062",
       "stock": "263620",
       "color": "Shadow Black",
+      "trim": "XLT",
       "url": "https://willyml1979-dotcom.github.io/sunshine-mountain-ford-lincoln-ltd-mirror/new/47dff0775aad.html",
       "source_url": "https://smfl.ca/Inventory/2026-FORD-RANGER-XLT-1FTER4HH2TLE37062",
       "dealer_url": "https://smfl.ca/Inventory/2026-FORD-RANGER-XLT-1FTER4HH2TLE37062?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -932,14 +1115,17 @@
       "odometer_km": 11,
       "year": 2026,
       "make": "FORD",
-      "model": "RANGER XLT",
-      "condition": "new"
+      "model": "Ranger",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 FORD RANGER XLT",
       "vin": "1FTER4HH3TLE16804",
       "stock": "262160",
       "color": "Oxford White",
+      "trim": "XLT",
       "url": "https://willyml1979-dotcom.github.io/sunshine-mountain-ford-lincoln-ltd-mirror/new/ca6bb3e0f9d3.html",
       "source_url": "https://smfl.ca/Inventory/2026-FORD-RANGER-XLT-1FTER4HH3TLE16804",
       "dealer_url": "https://smfl.ca/Inventory/2026-FORD-RANGER-XLT-1FTER4HH3TLE16804?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -947,14 +1133,17 @@
       "odometer_km": 11,
       "year": 2026,
       "make": "FORD",
-      "model": "RANGER XLT",
-      "condition": "new"
+      "model": "Ranger",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 FORD RANGER XLT",
       "vin": "1FTER4HH6TLE29465",
       "stock": "262950",
       "color": "Marsh Grey",
+      "trim": "XLT",
       "url": "https://willyml1979-dotcom.github.io/sunshine-mountain-ford-lincoln-ltd-mirror/new/1a143bd0cd31.html",
       "source_url": "https://smfl.ca/Inventory/2026-FORD-RANGER-XLT-1FTER4HH6TLE29465",
       "dealer_url": "https://smfl.ca/Inventory/2026-FORD-RANGER-XLT-1FTER4HH6TLE29465?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -962,14 +1151,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "FORD",
-      "model": "RANGER XLT",
-      "condition": "new"
+      "model": "Ranger",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 FORD RANGER XLT",
       "vin": "1FTER4HH7TLE23853",
       "stock": "262660",
       "color": "Velocity Blue Metallic",
+      "trim": "XLT",
       "url": "https://willyml1979-dotcom.github.io/sunshine-mountain-ford-lincoln-ltd-mirror/new/f1c26e0abedd.html",
       "source_url": "https://smfl.ca/Inventory/2026-FORD-RANGER-XLT-1FTER4HH7TLE23853",
       "dealer_url": "https://smfl.ca/Inventory/2026-FORD-RANGER-XLT-1FTER4HH7TLE23853?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -977,14 +1169,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "FORD",
-      "model": "RANGER XLT",
-      "condition": "new"
+      "model": "Ranger",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 FORD RANGER XLT",
       "vin": "1FTER4HP7TLE03173",
       "stock": "260760",
       "color": "Desert Sand",
+      "trim": "XLT",
       "url": "https://willyml1979-dotcom.github.io/sunshine-mountain-ford-lincoln-ltd-mirror/new/2b9db9a70d58.html",
       "source_url": "https://smfl.ca/Inventory/2026-FORD-RANGER-XLT-1FTER4HP7TLE03173",
       "dealer_url": "https://smfl.ca/Inventory/2026-FORD-RANGER-XLT-1FTER4HP7TLE03173?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -992,14 +1187,17 @@
       "odometer_km": 4215,
       "year": 2026,
       "make": "FORD",
-      "model": "RANGER XLT",
-      "condition": "new"
+      "model": "Ranger",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 GMC TERRAIN AWD AT4",
       "vin": "3GKALYEG3TL174396",
       "stock": "20470",
       "color": "Sterling Metallic",
+      "trim": "AT4",
       "url": "https://willyml1979-dotcom.github.io/sunshine-mountain-ford-lincoln-ltd-mirror/used/a16bfacaa3f0.html",
       "source_url": "https://smfl.ca/Inventory/2026-GMC-TERRAIN-AWDAT4-3GKALYEG3TL174396",
       "dealer_url": "https://smfl.ca/Inventory/2026-GMC-TERRAIN-AWDAT4-3GKALYEG3TL174396?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1007,14 +1205,17 @@
       "odometer_km": 14105,
       "year": 2026,
       "make": "GMC",
-      "model": "TERRAIN AWD AT4",
-      "condition": "used"
+      "model": "Terrain",
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 KIA SELTOS EX",
       "vin": "KNDEUCAA8T7884798",
       "stock": "263921",
       "color": "White",
+      "trim": "EX",
       "url": "https://willyml1979-dotcom.github.io/sunshine-mountain-ford-lincoln-ltd-mirror/used/1d1daf3a57ed.html",
       "source_url": "https://smfl.ca/Inventory/2026-KIA-SELTOS-EX-KNDEUCAA8T7884798",
       "dealer_url": "https://smfl.ca/Inventory/2026-KIA-SELTOS-EX-KNDEUCAA8T7884798?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1022,14 +1223,17 @@
       "odometer_km": 3967,
       "year": 2026,
       "make": "KIA",
-      "model": "SELTOS EX",
-      "condition": "used"
+      "model": "Seltos",
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 MAZDA CX-70 PHEV Signature",
       "vin": "JM3KJEHA8T1205412",
       "stock": "262461",
       "color": "White",
+      "trim": "Signature",
       "url": "https://willyml1979-dotcom.github.io/sunshine-mountain-ford-lincoln-ltd-mirror/used/78bab404c91d.html",
       "source_url": "https://smfl.ca/Inventory/2026-MAZDA-CX-70PHEV-Signature-JM3KJEHA8T1205412",
       "dealer_url": "https://smfl.ca/Inventory/2026-MAZDA-CX-70PHEV-Signature-JM3KJEHA8T1205412?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1037,14 +1241,17 @@
       "odometer_km": 2012,
       "year": 2026,
       "make": "MAZDA",
-      "model": "CX-70 PHEV Signature",
-      "condition": "used"
+      "model": "CX-70 PHEV",
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 TOYOTA GR SUPRA 3.0T",
       "vin": "WZ1DB0G0XTW073431",
       "stock": "20410",
       "color": "White",
+      "trim": "3.0T",
       "url": "https://willyml1979-dotcom.github.io/sunshine-mountain-ford-lincoln-ltd-mirror/used/fd2f79dc1141.html",
       "source_url": "https://smfl.ca/Inventory/2026-TOYOTA-GRSUPRA-3.0T-WZ1DB0G0XTW073431",
       "dealer_url": "https://smfl.ca/Inventory/2026-TOYOTA-GRSUPRA-3.0T-WZ1DB0G0XTW073431?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1052,8 +1259,10 @@
       "odometer_km": 12945,
       "year": 2026,
       "make": "TOYOTA",
-      "model": "GR SUPRA 3.0T",
-      "condition": "used"
+      "model": "GR Supra",
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     }
   ]
 }
