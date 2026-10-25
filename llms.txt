@@ -3,7 +3,7 @@
 > Sunshine Mountain Ford Lincoln Ltd. is a  dealership in Nanaimo. This mirror provides AI-readable access to current inventory and dealership information, kept in sync with the dealership's own website.
 
 ## Inventory
-- [Used vehicles](https://willyml1979-dotcom.github.io/sunshine-mountain-ford-lincoln-ltd-mirror/used/): 144 vehicles, updated regularly
+- [Used vehicles](https://willyml1979-dotcom.github.io/sunshine-mountain-ford-lincoln-ltd-mirror/used/): 156 vehicles, updated regularly
 - [Inventory feed](https://willyml1979-dotcom.github.io/sunshine-mountain-ford-lincoln-ltd-mirror/inventory.json): structured JSON, all vehicles with VIN, price, mileage and availability
 
 ## Resources
