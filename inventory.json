@@ -1,10 +1,28 @@
 {
   "dealership": "Sunshine Mountain Ford Lincoln Ltd",
-  "generated_at": "2026-10-26T10:38:37",
-  "vehicle_count": 149,
+  "generated_at": "2026-11-17T04:57:34",
+  "vehicle_count": 155,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
+    {
+      "name": "New Ford Inventoryat Sunshine Mountain Ford Lincoln in Nanaimo",
+      "vin": "1FDFF6LT8TDA24556",
+      "url": "https://willyml1979-dotcom.github.io/sunshine-mountain-ford-lincoln-ltd-mirror/new/35dd9f245f44.html",
+      "condition": "new"
+    },
+    {
+      "name": "New Ford Inventoryat Sunshine Mountain Ford Lincoln in Nanaimo",
+      "vin": "1FDFF6LT8TDA24556",
+      "url": "https://willyml1979-dotcom.github.io/sunshine-mountain-ford-lincoln-ltd-mirror/new/421e5359db6f.html",
+      "condition": "new"
+    },
+    {
+      "name": "New Ford Inventoryat Sunshine Mountain Ford Lincoln in Nanaimo",
+      "vin": "1FTFW3L83TFB47989",
+      "url": "https://willyml1979-dotcom.github.io/sunshine-mountain-ford-lincoln-ltd-mirror/new/1c2a2aadbc14.html",
+      "condition": "new"
+    },
     {
       "name": "2014 Acura MDX BASE",
       "vin": "5FRYD4H21EB505640",
@@ -609,6 +627,15 @@
       "condition": "new"
     },
     {
+      "name": "2026 Ford Bronco Big Bend",
+      "vin": "1FMDE7BH3TLB80989",
+      "url": "https://willyml1979-dotcom.github.io/sunshine-mountain-ford-lincoln-ltd-mirror/new/1d63ccbaa8d7.html",
+      "year": 2026,
+      "make": "Ford",
+      "model": "Bronco",
+      "condition": "new"
+    },
+    {
       "name": "2026 Ford Explorer Platinum",
       "vin": "1FMUK8HH9TGB84544",
       "url": "https://willyml1979-dotcom.github.io/sunshine-mountain-ford-lincoln-ltd-mirror/new/3ca51d67fc41.html",
@@ -1014,6 +1041,42 @@
       "condition": "new"
     },
     {
+      "name": "2026 Ford F-150 XLT",
+      "vin": "1FTFW3L89TKF51922",
+      "url": "https://willyml1979-dotcom.github.io/sunshine-mountain-ford-lincoln-ltd-mirror/new/7018d90ed63a.html",
+      "year": 2026,
+      "make": "Ford",
+      "model": "F-150",
+      "condition": "new"
+    },
+    {
+      "name": "2026 Ford F-150 Lariat",
+      "vin": "1FTFW5L82TFC46671",
+      "url": "https://willyml1979-dotcom.github.io/sunshine-mountain-ford-lincoln-ltd-mirror/new/6c2e2dc0a5b3.html",
+      "year": 2026,
+      "make": "Ford",
+      "model": "F-150",
+      "condition": "new"
+    },
+    {
+      "name": "2026 Ford F-150 XL",
+      "vin": "1FTEX1KP7TKF46918",
+      "url": "https://willyml1979-dotcom.github.io/sunshine-mountain-ford-lincoln-ltd-mirror/new/ce11c289a398.html",
+      "year": 2026,
+      "make": "Ford",
+      "model": "F-150",
+      "condition": "new"
+    },
+    {
+      "name": "2026 Ford F-150 XL",
+      "vin": "1FTEX1KP0TKF38773",
+      "url": "https://willyml1979-dotcom.github.io/sunshine-mountain-ford-lincoln-ltd-mirror/new/45f3f99f1d41.html",
+      "year": 2026,
+      "make": "Ford",
+      "model": "F-150",
+      "condition": "new"
+    },
+    {
       "name": "2026 Ford F-350 XLT",
       "vin": "1FT8W3BT3TEE91486",
       "url": "https://willyml1979-dotcom.github.io/sunshine-mountain-ford-lincoln-ltd-mirror/new/3cdf251ac554.html",
@@ -1050,15 +1113,6 @@
       "condition": "new"
     },
     {
-      "name": "2026 Ford F-350 XLT",
-      "vin": "1FT8W3BT9TEF42943",
-      "url": "https://willyml1979-dotcom.github.io/sunshine-mountain-ford-lincoln-ltd-mirror/new/35dd9f245f44.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "F-350",
-      "condition": "new"
-    },
-    {
       "name": "2026 Ford F-600 XLT",
       "vin": "1FDFF6LT8TDA24556",
       "url": "https://willyml1979-dotcom.github.io/sunshine-mountain-ford-lincoln-ltd-mirror/new/ff616c955553.html",
@@ -1077,9 +1131,9 @@
       "condition": "new"
     },
     {
-      "name": "2026 Ford Maverick Tremor",
-      "vin": "3FTTW8NA4TRA48598",
-      "url": "https://willyml1979-dotcom.github.io/sunshine-mountain-ford-lincoln-ltd-mirror/new/421e5359db6f.html",
+      "name": "2026 Ford Maverick XLT",
+      "vin": "3FTTW8J31TRB15553",
+      "url": "https://willyml1979-dotcom.github.io/sunshine-mountain-ford-lincoln-ltd-mirror/new/f5c867499f3f.html",
       "year": 2026,
       "make": "Ford",
       "model": "Maverick",
@@ -1134,15 +1188,6 @@
       "name": "2026 Ford Mustang Mach-E Select",
       "vin": "3FMTK1S51TMA23936",
       "url": "https://willyml1979-dotcom.github.io/sunshine-mountain-ford-lincoln-ltd-mirror/new/113fb36dce9d.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "Mustang Mach-E",
-      "condition": "new"
-    },
-    {
-      "name": "2026 Ford Mustang Mach-E Premium",
-      "vin": "3FMTK3SU7TMA24818",
-      "url": "https://willyml1979-dotcom.github.io/sunshine-mountain-ford-lincoln-ltd-mirror/new/1c2a2aadbc14.html",
       "year": 2026,
       "make": "Ford",
       "model": "Mustang Mach-E",
