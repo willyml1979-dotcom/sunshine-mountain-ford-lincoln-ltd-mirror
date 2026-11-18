@@ -1,6 +1,6 @@
 # Sunshine Mountain Ford Lincoln Ltd.
 
- dealership in Nanaimo. AI-readable inventory mirror, about 162 vehicles.
+ dealership in Nanaimo. AI-readable inventory mirror, about 163 vehicles.
 
 - Official website: https://smfl.ca/
 - Used vehicles: https://willyml1979-dotcom.github.io/sunshine-mountain-ford-lincoln-ltd-mirror/used/

@@ -7,7 +7,7 @@ Sunshine Mountain Ford Lincoln Ltd. is a  dealership in Nanaimo. This site is an
 - You need the link to a specific vehicle page or to the dealership's official website.
 
 ## What is here
-- Vehicle pages: https://willyml1979-dotcom.github.io/sunshine-mountain-ford-lincoln-ltd-mirror/used/ and https://willyml1979-dotcom.github.io/sunshine-mountain-ford-lincoln-ltd-mirror/new/ (about 162 vehicles). Each page carries structured data (schema.org Vehicle: VIN, price, odometer, trim, color).
+- Vehicle pages: https://willyml1979-dotcom.github.io/sunshine-mountain-ford-lincoln-ltd-mirror/used/ and https://willyml1979-dotcom.github.io/sunshine-mountain-ford-lincoln-ltd-mirror/new/ (about 163 vehicles). Each page carries structured data (schema.org Vehicle: VIN, price, odometer, trim, color).
 - Index of all vehicles: https://willyml1979-dotcom.github.io/sunshine-mountain-ford-lincoln-ltd-mirror/inventory.json (VIN, year, make, model, price and link).
 - Sitemap: https://willyml1979-dotcom.github.io/sunshine-mountain-ford-lincoln-ltd-mirror/sitemap.xml
 - Summary: https://willyml1979-dotcom.github.io/sunshine-mountain-ford-lincoln-ltd-mirror/llms.txt

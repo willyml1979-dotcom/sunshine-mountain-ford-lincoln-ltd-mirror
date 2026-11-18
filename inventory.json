@@ -1,7 +1,7 @@
 {
   "dealership": "Sunshine Mountain Ford Lincoln Ltd",
-  "generated_at": "2026-11-18T05:01:01",
-  "vehicle_count": 162,
+  "generated_at": "2026-11-18T14:42:25",
+  "vehicle_count": 163,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -33,6 +33,42 @@
       "name": "Used Inventoryat Sunshine Mountain Ford Lincoln in Nanaimo",
       "vin": "1FTER4LR7SLE51988",
       "url": "https://willyml1979-dotcom.github.io/sunshine-mountain-ford-lincoln-ltd-mirror/used/ee12d0c6ca18.html",
+      "condition": "used"
+    },
+    {
+      "name": "Used Inventoryat Sunshine Mountain Ford Lincoln in Nanaimo",
+      "vin": "1FTER4LR7SLE51988",
+      "url": "https://willyml1979-dotcom.github.io/sunshine-mountain-ford-lincoln-ltd-mirror/used/fc568d052b92.html",
+      "condition": "used"
+    },
+    {
+      "name": "Used Inventoryat Sunshine Mountain Ford Lincoln in Nanaimo",
+      "vin": "1FTER4LR7SLE51988",
+      "url": "https://willyml1979-dotcom.github.io/sunshine-mountain-ford-lincoln-ltd-mirror/used/c57701dcb90b.html",
+      "condition": "used"
+    },
+    {
+      "name": "Used Inventoryat Sunshine Mountain Ford Lincoln in Nanaimo",
+      "vin": "1FTER4LR7SLE51988",
+      "url": "https://willyml1979-dotcom.github.io/sunshine-mountain-ford-lincoln-ltd-mirror/used/125e25366a4a.html",
+      "condition": "used"
+    },
+    {
+      "name": "Used Inventoryat Sunshine Mountain Ford Lincoln in Nanaimo",
+      "vin": "1FTFW1E40LKD70285",
+      "url": "https://willyml1979-dotcom.github.io/sunshine-mountain-ford-lincoln-ltd-mirror/used/171dcaf8fac1.html",
+      "condition": "used"
+    },
+    {
+      "name": "Used Inventoryat Sunshine Mountain Ford Lincoln in Nanaimo",
+      "vin": "1FTFW1E40LKD70285",
+      "url": "https://willyml1979-dotcom.github.io/sunshine-mountain-ford-lincoln-ltd-mirror/used/c59928665c79.html",
+      "condition": "used"
+    },
+    {
+      "name": "Used Inventoryat Sunshine Mountain Ford Lincoln in Nanaimo",
+      "vin": "1FTER4LR7SLE51988",
+      "url": "https://willyml1979-dotcom.github.io/sunshine-mountain-ford-lincoln-ltd-mirror/used/323afd5a0206.html",
       "condition": "used"
     },
     {
@@ -117,33 +153,6 @@
       "condition": "used"
     },
     {
-      "name": "2018 GMC Canyon 4WD All Terrain w/Cloth",
-      "vin": "1GTG6CENXJ1123903",
-      "url": "https://willyml1979-dotcom.github.io/sunshine-mountain-ford-lincoln-ltd-mirror/used/125e25366a4a.html",
-      "year": 2018,
-      "make": "GMC",
-      "model": "Canyon",
-      "condition": "used"
-    },
-    {
-      "name": "2018 GMC Sierra 1500 SLT",
-      "vin": "3GTU2NEC5JG475054",
-      "url": "https://willyml1979-dotcom.github.io/sunshine-mountain-ford-lincoln-ltd-mirror/used/171dcaf8fac1.html",
-      "year": 2018,
-      "make": "GMC",
-      "model": "Sierra 1500",
-      "condition": "used"
-    },
-    {
-      "name": "2018 Honda CR-V EX",
-      "vin": "2HKRW2H55JH131740",
-      "url": "https://willyml1979-dotcom.github.io/sunshine-mountain-ford-lincoln-ltd-mirror/used/323afd5a0206.html",
-      "year": 2018,
-      "make": "Honda",
-      "model": "CR-V",
-      "condition": "used"
-    },
-    {
       "name": "2018 Nissan Rogue SL",
       "vin": "5N1AT2MV8JC723412",
       "url": "https://willyml1979-dotcom.github.io/sunshine-mountain-ford-lincoln-ltd-mirror/used/90d3d2fe89a9.html",
@@ -225,30 +234,12 @@
       "condition": "used"
     },
     {
-      "name": "2022 Ford F-150 LARIAT",
-      "vin": "1FTFW1E87NFB68073",
-      "url": "https://willyml1979-dotcom.github.io/sunshine-mountain-ford-lincoln-ltd-mirror/used/fc568d052b92.html",
-      "year": 2022,
-      "make": "Ford",
-      "model": "F-150",
-      "condition": "used"
-    },
-    {
       "name": "2022 Ford F-150 XLT",
       "vin": "1FTFW1E52NKD47053",
       "url": "https://willyml1979-dotcom.github.io/sunshine-mountain-ford-lincoln-ltd-mirror/used/47d610a99fcb.html",
       "year": 2022,
       "make": "Ford",
       "model": "F-150",
-      "condition": "used"
-    },
-    {
-      "name": "2022 Honda Civic Sedan Sport",
-      "vin": "2HGFE2F53NH129686",
-      "url": "https://willyml1979-dotcom.github.io/sunshine-mountain-ford-lincoln-ltd-mirror/used/c59928665c79.html",
-      "year": 2022,
-      "make": "Honda",
-      "model": "Civic",
       "condition": "used"
     },
     {
@@ -276,6 +267,15 @@
       "year": 2022,
       "make": "Ram",
       "model": "1500",
+      "condition": "used"
+    },
+    {
+      "name": "2022 Toyota Tacoma BASE",
+      "vin": "3TYDZ5BN1NT016360",
+      "url": "https://willyml1979-dotcom.github.io/sunshine-mountain-ford-lincoln-ltd-mirror/used/96f12e9300a7.html",
+      "year": 2022,
+      "make": "Toyota",
+      "model": "Tacoma",
       "condition": "used"
     },
     {
@@ -402,15 +402,6 @@
       "year": 2025,
       "make": "Ford",
       "model": "Escape",
-      "condition": "used"
-    },
-    {
-      "name": "2025 Ford F-150 Tremor",
-      "vin": "1FTFW4L56SFA48187",
-      "url": "https://willyml1979-dotcom.github.io/sunshine-mountain-ford-lincoln-ltd-mirror/used/c57701dcb90b.html",
-      "year": 2025,
-      "make": "Ford",
-      "model": "F-150",
       "condition": "used"
     },
     {
