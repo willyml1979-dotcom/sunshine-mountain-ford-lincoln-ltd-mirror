@@ -1,6 +1,6 @@
 {
   "dealership": "Sunshine Mountain Ford Lincoln Ltd",
-  "generated_at": "2026-11-17T14:38:11",
+  "generated_at": "2026-11-18T05:01:01",
   "vehicle_count": 162,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -57,6 +57,18 @@
       "name": "New Ford Inventoryat Sunshine Mountain Ford Lincoln in Nanaimo",
       "vin": "1FTFW3L83TFB47989",
       "url": "https://willyml1979-dotcom.github.io/sunshine-mountain-ford-lincoln-ltd-mirror/new/1c2a2aadbc14.html",
+      "condition": "new"
+    },
+    {
+      "name": "New Ford Inventoryat Sunshine Mountain Ford Lincoln in Nanaimo",
+      "vin": "1FTFW3L83TFB47989",
+      "url": "https://willyml1979-dotcom.github.io/sunshine-mountain-ford-lincoln-ltd-mirror/new/c24c85c1d171.html",
+      "condition": "new"
+    },
+    {
+      "name": "New Ford Inventoryat Sunshine Mountain Ford Lincoln in Nanaimo",
+      "vin": "1FTFW3L83TFB47989",
+      "url": "https://willyml1979-dotcom.github.io/sunshine-mountain-ford-lincoln-ltd-mirror/new/fbf60fef6e8a.html",
       "condition": "new"
     },
     {
@@ -1311,15 +1323,6 @@
       "condition": "new"
     },
     {
-      "name": "2026 Ford Ranger XLT",
-      "vin": "1FTER4HH7TLE23853",
-      "url": "https://willyml1979-dotcom.github.io/sunshine-mountain-ford-lincoln-ltd-mirror/new/c24c85c1d171.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "Ranger",
-      "condition": "new"
-    },
-    {
       "name": "2026 Ford Ranger Raptor",
       "vin": "1FTER4LR3TLE31075",
       "url": "https://willyml1979-dotcom.github.io/sunshine-mountain-ford-lincoln-ltd-mirror/new/1d04fceff991.html",
@@ -1371,15 +1374,6 @@
       "year": 2026,
       "make": "Ford",
       "model": "Super Duty",
-      "condition": "new"
-    },
-    {
-      "name": "2026 Ford Transit Reg 148",
-      "vin": "1FTBW9C84TKA49000",
-      "url": "https://willyml1979-dotcom.github.io/sunshine-mountain-ford-lincoln-ltd-mirror/new/fbf60fef6e8a.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "Transit",
       "condition": "new"
     },
     {
